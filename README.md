@@ -1,10 +1,10 @@
-<img src="./icon.png" width="64" height="64" /> <img src="./icon_title.png" height="64" />
+# SigmaBuilder
 
-# ElectraBuilder
-Create extensions for ElectraMod using block-based coding.
+SigmaBuilder is a hobby project that allows people to create PenguinMod and TurboWarp extensions using block-based coding similar to Scratch (except with more block types)
 
 ## In development
 This project is not finished and is still being worked on. Expect bugs and problems that may prevent the site from working.
+Also do not expect your extensions to work.
 
 ## Running locally
 
